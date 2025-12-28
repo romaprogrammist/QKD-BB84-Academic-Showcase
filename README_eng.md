@@ -44,8 +44,6 @@ The project demonstrates the fundamental security principle of QKD: **any attemp
 
 The full source code (file `BB84_Sim.py`), detailed QBER analysis results, and the official **Scientific Report (`Simfin.pdf`)** are held in a **Private Repository** to protect Intellectual Property.
 
-> **IMPORTANT NOTICE (Project Evaluation and Technopark):**
-> This project was developed in accordance with **high R&D standards**. For its evaluation, especially in the context of the **Technopark**, the focus must be on **technical depth, code complexity, and innovative contribution**. We emphasize that formal academic metrics (e.g., standardized testing scores) **cannot serve as an adequate substitute** for the assessment of this level of research work and should be secondary to technical auditing.
 
 * **For temporary access** to the full code and report (only for academic audit, application to innovation programs, or hiring procedures), please contact the Author. **Collaboration with local R&D teams in Belarus is especially welcome.**
 
